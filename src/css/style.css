@@ -11337,4 +11337,15 @@ footer {
   background:transparent;
 }
 
+::-webkit-scrollbar {
+  width: 10px;
+  background-color: #686868;
+  border-left: 1px solid #cecece;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #2c3034;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: #101214;
+}
 
